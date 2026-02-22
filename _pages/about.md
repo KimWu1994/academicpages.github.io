@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and [CAIR, HKISI, CAS](https://www.cair-cas.org.hk). I received my Ph.D. from the University of Chinese Academy of Sciences in 2022, supervised by [Prof. Stan Z. Li](https://nlpr.ia.ac.cn/users/szli/), and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
+I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and [CAIR, HKISI, CAS](https://www.cair-cas.org.hk). I received my Ph.D. from the University of Chinese Academy of Sciences in 2022 and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
 
 My research interests lie in **Computer Vision** and **Video-Language Models**, with a particular focus on object detection, image recognition, and video understanding. I have built a solid research foundation in intelligent video analysis for public safety and medical applications.
 
