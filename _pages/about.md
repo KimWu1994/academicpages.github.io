@@ -6,15 +6,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and Centre for Artificial Intelligence and Robotics (CAIR), Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences. I received my Ph.D. from the University of Chinese Academy of Sciences in 2022 and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
 
-My research interests span **computer vision** and **Video-LM**, with a focus on object detection, image recognition, and video understanding. I have established a solid research foundation in intelligent video analysis for public safety and medical video understanding.
+I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and [CAIR, HKISI, CAS](https://www.cair-cas.org.hk). I received my Ph.D. from the University of Chinese Academy of Sciences in 2022, supervised by [Prof. Stan Z. Li](https://nlpr.ia.ac.cn/users/szli/), and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
 
-I am currently serving as the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives. I have published over 50 peer-reviewed papers in top-tier venues, with more than **1,000+** citations on Google Scholar.
+My research interests lie in **Computer Vision** and **Video-Language Models**, with a particular focus on object detection, image recognition, and video understanding. I have built a solid research foundation in intelligent video analysis for public safety and medical applications.
+
+I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives. I have published over 50 peer-reviewed papers in top-tier venues, accumulating **1,000+** citations on Google Scholar.
 
 ---
 
 # 📰 News
 
-- **[Feb 2026]** 🎉 3 papers are accepted by **CVPR 2026**!
-- **[Jan 2026]** 🎉 2 papers are accepted by **AAAI 2026**!
+- **[Feb 2026]** 🎉 3 papers accepted by **CVPR 2026**!
+- **[Jan 2026]** 🎉 2 papers accepted by **AAAI 2026**!
+
+---
+
+# 🎓 Join Us
+
+**I am actively recruiting interns and research assistants (RAs)** with interests in:
+
+- 🎬 **Video-Language Models (VideoLM)**
+- 🤖 **Video Agents**
+- 🏥 **Medical Video Understanding**
+
+Interns can be based in **Beijing** or **Hong Kong**. If you are passionate about cutting-edge video AI research, feel free to reach out!
