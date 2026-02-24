@@ -16,9 +16,10 @@ I am currently the Principal Investigator of a National Natural Science Foundati
 
 # 📰 News
 
-- **[Apr 2026]** 🏫 We are co-organizing the [**Medical Augmented Reality Summer School 2026**](https://www.medicalaugmentedreality.org/mar2026.html) in Shenzhen, China!
+- **[Feb 2026]** 🏫 We are co-organizing the [**Medical Augmented Reality Summer School 2026**](https://www.medicalaugmentedreality.org/mar2026.html) in Shenzhen, China!
 - **[Feb 2026]** 🎉 3 papers accepted by **CVPR 2026**!
 - **[Jan 2026]** 🎉 2 papers accepted by **AAAI 2026**!
+- **[Oct 2025]** 🎤 We organized the [**CREATE Workshop**](https://sites.google.com/view/create-2025/home) at MICCAI 2025 in Daejeon, South Korea! [[News]](https://www.cair-cas.org.hk/article/540)
 
 ---
 
