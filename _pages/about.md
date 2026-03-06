@@ -95,10 +95,10 @@ redirect_from:
 
 I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and [CAIR, HKISI, CAS](https://www.cair-cas.org.hk). I received my Ph.D. from the University of Chinese Academy of Sciences in 2022, and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
 
-`<span class="badge badge-blue">`Computer Vision
-`<span class="badge badge-purple">`Video-Language Models
-`<span class="badge badge-green">`Medical Video Understanding
-`<span class="badge badge-orange">`Object Detection
+<span class="badge badge-blue">Computer Vision</span>
+<span class="badge badge-purple">Video-Language Models</span>
+<span class="badge badge-green">Medical Video Understanding</span>
+<span class="badge badge-orange">Object Detection</span>
 
 I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives.
 
