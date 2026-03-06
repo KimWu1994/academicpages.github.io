@@ -95,12 +95,14 @@ redirect_from:
 
 I am an Assistant Professor at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/) and [CAIR, HKISI, CAS](https://www.cair-cas.org.hk). I received my Ph.D. from the University of Chinese Academy of Sciences in 2022, and my B.E. degree from the University of Electronic Science and Technology of China (UESTC) in 2017.
 
-<span class="badge badge-blue">Computer Vision</span>
-<span class="badge badge-purple">Video-Language Models</span>
-<span class="badge badge-green">Medical Video Understanding</span>
-<span class="badge badge-orange">Object Detection</span>
+<span class="badge badge-blue">Video Understanding</span>
+<span class="badge badge-purple">Surgical Video Understanding</span>
+<span class="badge badge-green">Scene Understanding</span>
+<span class="badge badge-orange">Video Multimodal Agents</span>
 
-I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives.
+I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project. Specifically, I have presided over one NSFC project and participated as a core member in multiple other NSFC-funded projects.
+
+I serve as a reviewer for top international conferences and journals including **CVPR**, **ECCV**, **ICCV**, **NeurIPS**, **TIP**, and **TIFS**. I am also an organizer of the [**CREATE Workshop**](https://sites.google.com/view/create-2025/home) at MICCAI 2023, 2024, and 2025.
 
 <div class="stats-bar">
   <div class="stat-item">
